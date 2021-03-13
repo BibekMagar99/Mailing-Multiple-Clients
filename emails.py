@@ -1,0 +1,1 @@
+emails = ['First email Here', 'Second email Here', 'Third email Here','and so on....as much as you want'] 
